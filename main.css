@@ -1,0 +1,39 @@
+
+.wrapper{
+    width: 110%;
+    height: 110%;
+    background-color: #0074ff;
+}
+
+.signup{
+position: absolute;
+top: 25%;
+left: 40%;
+width: 300px;
+text-align: center;
+margin: 25px;
+border: 1px solid black;
+box-shadow: 2px 2px gray;
+background-color: white;
+padding: 35px;
+}
+
+.reg{
+    background-color: #0074ff;
+    color: white;
+    padding: 5px 50px;
+    border-radius: 8px;
+}
+
+.suhead{
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 50px;
+}
+
+.nava {
+    background-color: white;
+    text-align: right;
+    border-bottom: 3px solid tan;
+}
+
